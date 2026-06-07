@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/USER/Desktop/AMLGuard%20AI/model/mlruns/400309441558722718/models/m-1241abc27e24473cb913dbd35298cdfe/artifacts
+creation_timestamp: 1780819631998
+experiment_id: '400309441558722718'
+last_updated_timestamp: 1780819642381
+model_id: m-1241abc27e24473cb913dbd35298cdfe
+model_type: null
+name: xgboost_model
+source_run_id: 85e55b5a301a4bea875e50cb196d8947
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/USER/Desktop/AMLGuard%20AI/model/mlruns/400309441558722718/models/m-89170d0ab7cd45ad860d2b1730455e1e/artifacts
+creation_timestamp: 1780819606854
+experiment_id: '400309441558722718'
+last_updated_timestamp: 1780819631916
+model_id: m-89170d0ab7cd45ad860d2b1730455e1e
+model_type: null
+name: isolation_forest
+source_run_id: 85e55b5a301a4bea875e50cb196d8947
+status: 2
+status_message: null

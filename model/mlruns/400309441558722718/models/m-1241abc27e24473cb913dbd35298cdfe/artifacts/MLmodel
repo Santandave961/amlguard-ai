@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/USER/Desktop/AMLGuard%20AI/model/mlruns/400309441558722718/models/m-1241abc27e24473cb913dbd35298cdfe/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.13.5
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: xgb
+    xgb_version: 3.0.4
+mlflow_version: 3.4.0
+model_id: m-1241abc27e24473cb913dbd35298cdfe
+model_size_bytes: 437616
+model_uuid: m-1241abc27e24473cb913dbd35298cdfe
+prompts: null
+run_id: 85e55b5a301a4bea875e50cb196d8947
+utc_time_created: '2026-06-07 08:07:12.160565'

@@ -1,0 +1,1 @@
+["amount_log", "hour_of_day", "day_of_week", "is_weekend", "is_night", "near_threshold", "is_round_amount", "txn_count_24h", "amount_sum_7d", "amount_zscore", "velocity_flag", "is_international", "transaction_type_enc", "sender_bank_enc"]

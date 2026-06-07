@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/USER/Desktop/AMLGuard%20AI/model/mlruns/400309441558722718/85e55b5a301a4bea875e50cb196d8947/artifacts
+end_time: 1780819642416
+entry_point_name: ''
+experiment_id: '400309441558722718'
+lifecycle_stage: active
+run_id: 85e55b5a301a4bea875e50cb196d8947
+run_name: xgboost_aml_detector
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780819604646
+status: 3
+tags: []
+user_id: USER
