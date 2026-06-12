@@ -178,7 +178,7 @@ with tab2:
                   "MEDIUM": "background-color: #3d3300", "LOW": "background-color: #003d1a"}
         return colors.get(val, "")
 
-    styled = flagged_df[display_cols].head(100).style.applymap(
+    styled = flagged_df[display_cols].head(100).style.map(
         color_risk, subset=["risk_level"]
     ).format({"risk_score": "{:.3f}", "amount": "₦{:,.0f}"})
 
